@@ -1,2 +1,2 @@
 # hololens
-just some ests I did with Unity for Hololens 
+just some tests I did with Unity for Hololens 
